@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "officers": [
+    {
+      "id": "off-demo-1fa6635e2dd8a9c01fea",
+      "username": "demo_electricity",
+      "fullName": "Demo Electricity Officer",
+      "department": "Electricity",
+      "role": "officer",
+      "email": "",
+      "active": true,
+      "passwordHash": "scrypt$16e58f8dd79661fda1a7acdb8dba2f08$113fa50ffa12d505e45a0322c473070d2b90622f072c81a82edeb679d8de996a1e61a7a4734a57b7f9bc42665daf8496c459d2ca0535d55ef257ec724d4ff85d",
+      "createdAt": "2026-10-23T01:10:45.593Z",
+      "updatedAt": "2026-10-23T01:10:45.593Z"
+    },
+    {
+      "id": "off-demo-6c1196c961e8cefd145b",
+      "username": "demo_roads",
+      "fullName": "Demo Roads & transport Officer",
+      "department": "Roads & transport",
+      "role": "officer",
+      "email": "",
+      "active": true,
+      "passwordHash": "scrypt$53d4e61049c8c63977c81bfd38ebaf29$329c6498070c1f6226ccefa38f0242f21ec43a19d4df1f6faa9d953fff3d4c74447e8ed722b9c5f9b986754ed5ae28e65ea7e61bb57c76d79ab8f8f43f34f8d4",
+      "createdAt": "2026-10-23T01:10:45.593Z",
+      "updatedAt": "2026-10-23T01:10:45.593Z"
+    },
+    {
+      "id": "off-demo-942b9970232beb29be22",
+      "username": "demo_water",
+      "fullName": "Demo Water & sanitation Officer",
+      "department": "Water & sanitation",
+      "role": "officer",
+      "email": "",
+      "active": true,
+      "passwordHash": "scrypt$4696b39bb27c3a4423e6c76b1302e911$2d879904556ee35d7dea9f81b1e65555363c4fc66e13d2c3d6a5bcdaa78ffb84ef425f60447db0755fe59bf7bc575abc539269823c64be5cbe5642e194436420",
+      "createdAt": "2026-10-23T01:10:45.593Z",
+      "updatedAt": "2026-10-23T01:10:45.593Z"
+    },
+    {
+      "id": "off-demo-9a4247781d685792d5b5",
+      "username": "demo_health",
+      "fullName": "Demo Health Officer",
+      "department": "Health",
+      "role": "officer",
+      "email": "",
+      "active": true,
+      "passwordHash": "scrypt$5e29287022d5dd6394fc5d3297130856$786a997116ce4427e29f691a70b79b55b82f9abb3934415090d5b296ec7e39b1b52817df04746c6b0de29ca6d64a3251f411db41b3ea017b9f4b795daa9fb39e",
+      "createdAt": "2026-10-23T01:10:45.593Z",
+      "updatedAt": "2026-10-23T01:10:45.593Z"
+    },
+    {
+      "id": "off-demo-45d69057138e1cb52d03",
+      "username": "demo_revenue",
+      "fullName": "Demo Revenue & documents Officer",
+      "department": "Revenue & documents",
+      "role": "officer",
+      "email": "",
+      "active": true,
+      "passwordHash": "scrypt$cbf9d31e8b36f70bf067c36e4f95bc6e$4c718b7ba340dfe90fe2ee580117d33c5a0c8586fd6304264be0054004d8960ec6a83117246107a453853f82f83b7cbc7e020af34dea7707700f3fdc278287df",
+      "createdAt": "2026-10-23T01:10:45.593Z",
+      "updatedAt": "2026-10-23T01:10:45.593Z"
+    },
+    {
+      "id": "off-demo-2f0bce3fff33f36e9cd2",
+      "username": "demo_other",
+      "fullName": "Demo Other Officer",
+      "department": "Other",
+      "role": "officer",
+      "email": "",
+      "active": true,
+      "passwordHash": "scrypt$e576ceecbb599e4b5e1ac9378d5c86ac$8568d0073341fe8426a912dd72f8fc5c15e219acd299a71418b05b9a91c0485525bedc10aab4dc6f0efebd484eba92e76ca4ced114a4c9ee1bf114c27d7f8e49",
+      "createdAt": "2026-10-23T01:10:45.593Z",
+      "updatedAt": "2026-10-23T01:10:45.593Z"
+    },
+    {
+      "id": "admin-b3833b08687ba9e7420f",
+      "username": "superadmin",
+      "fullName": "Chief Nodal Officer / Central Grievance Administrator",
+      "department": "All Departments",
+      "role": "superadmin",
+      "email": "nodal@gmail.com",
+      "active": true,
+      "passwordHash": "scrypt$c1b37742cd6dd3707c910bd6c453d1ba$0ec548616ca2377b2f7c99cd232c1ed7077e9d18e551a0a6c90d7bea2720be5a38129abf3d54c943056f305446e1cfc9c9a49800f7f166407448b03cae0f0c57",
+      "createdAt": "2026-10-23T01:11:06.298Z",
+      "updatedAt": "2026-10-23T01:11:06.299Z"
+    }
+  ]
+}
